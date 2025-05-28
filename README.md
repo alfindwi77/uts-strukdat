@@ -1,0 +1,2 @@
+# uts-strukdat
+jawaban uts 
